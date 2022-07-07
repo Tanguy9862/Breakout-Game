@@ -102,5 +102,4 @@ while is_game_on:
         else:
             ball.bounce_x()
             
-
 screen.exitonclick()
